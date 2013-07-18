@@ -53,7 +53,6 @@ public class PatcherMakerLauncher
         this.sourceFileName = sourceFileName;
         this.targetFileName = targetFileName;
         this.patchFileName = patchFileName;
-
     }
 
     private List<String> getCommand()
